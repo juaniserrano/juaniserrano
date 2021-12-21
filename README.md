@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - **Librerías**: Swagger, SpringMail
 - **Virtualización**: VirtualBox
 - **IDE**: VIM, Visual Studio Code, Eclipse, PyScripter
+- Metodologías: SCRUM, Agile
 - **Control de versiones**: Git
 - **Además**: PostMan, MacOS, Linux, Windows, JasperReports, Trello, Jira
 
