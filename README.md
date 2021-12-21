@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contactame: 
+[<img alt="Juani|LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png"/>](https://www.linkedin.com/in/juan-ignacio-serrano-luna/)
