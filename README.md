@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## Mis Conocimientos
 - **Lenguajes**: 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-[![Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Base de Datos**: PostgreSQL
 - **Frameworks**: Spring
