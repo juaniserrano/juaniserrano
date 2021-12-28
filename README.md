@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 🌱 Actualmente me enceuntro: 
+- Terminando mi carrera de Licenciatura en Sistemas (4to año) 
+- Haciendo cursos de Desarollo Full Stack y de React
+- Aprendiendo y dominando el layour DVORAK ⌨️
 ---
 
 ## Mis Conocimientos
@@ -29,4 +33,6 @@ Here are some ideas to get you started:
 - **Además**: PostMan, MacOS, Linux, Windows, JasperReports, Trello, Jira
 
 ## Contactame: 
-[<img alt="Juani|LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png"/>](https://www.linkedin.com/in/juan-ignacio-serrano-luna/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/juaniserrano)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-serrano-luna/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanignacioserranoluna@gmail.com)
