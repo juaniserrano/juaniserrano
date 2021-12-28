@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 #### 🌱 Actualmente me enceuntro: 
 - Terminando mi carrera de Licenciatura en Sistemas (4to año) 
 - Haciendo cursos de Desarollo Full Stack y de React
-- Aprendiendo y dominando el layour DVORAK ⌨️
+- Aprendiendo y dominando el layout DVORAK ⌨️
 ---
 
 ## Mis Conocimientos
-- **Lenguajes**: Java, JavaScript, Python
+- **Lenguajes**: 
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+[![Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 - **Base de Datos**: PostgreSQL
 - **Frameworks**: Spring
 - **Librerías**: Swagger, SpringMail
