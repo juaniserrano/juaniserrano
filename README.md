@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ## Mis Conocimientos
-- **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
 
 - **Base de Datos**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Frameworks**: Spring
