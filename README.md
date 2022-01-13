@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - **Virtualización**: VirtualBox
 - **IDE**: VIM, Visual Studio Code, Eclipse, PyScripter
 - **Metodologías**: SCRUM, Agile
-- **Control de versiones**: [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]
+- **Control de versiones**: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 - **Además**: PostMan, MacOS, Linux, Windows, JasperReports, Trello, Jira
 
 ## Contactame: 
