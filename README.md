@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 Actualmente me enceuntro: 
-- 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas [(4to año de la carrera)](https://www.ungs.edu.ar/wp-content/uploads/2013/06/Licenciatura-en-Sistemas.pdf)
-- 👨🏻‍💻 Haciendo cursos: [Desarollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y [React](https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/)
+- 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas [(4º año de la carrera)](https://www.ungs.edu.ar/wp-content/uploads/2013/06/Licenciatura-en-Sistemas.pdf)
+- 👨🏻‍💻 Haciendo cursos: [Desarrollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y [React](https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/)
 - ⌨️ Aprendiendo: [Dvorak Layout](https://es.wikipedia.org/wiki/Teclado_Dvorak)
-- 💬 Preguntame sobre: Programacion, Perifericos, Audio y Streaming.
+- 💬 Preguntame sobre: Programación, Periféricos, Audio y Streaming.
 - ⚡ Fun fact: Utilizo un teclado divido y customizado por mi, el cual es conocido como [Corne Keyboard](https://github.com/foostan/crkbd)
 ---
 
