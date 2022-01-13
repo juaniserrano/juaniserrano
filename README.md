@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 Actualmente me enceuntro: 
-- Terminando mi carrera de Licenciatura en Sistemas (4to año) 
-- Haciendo cursos de Desarollo Full Stack y de React
-- Aprendiendo y dominando el layout DVORAK ⌨️
+- 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas (4to año) 
+- 👨🏻‍💻 Haciendo cursos de [Desarollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y de [React](https://www.udemy.com/course/reactjs-experto-en-frontend-2018/)
+- ⌨️ Aprendiendo y dominando el layout DVORAK
+- 💬 Preguntame sobre: Programacion, Perifericos, Audio y Streaming
+- ⚡ Fun fact: Utilizo un teclado divido y customizado por mi, el cual es conocido como [Corne Keyboard] (https://github.com/foostan/crkbd)
 ---
 
 ## Mis Conocimientos
@@ -29,9 +31,9 @@ Here are some ideas to get you started:
 - **Librerías**: Swagger, SpringMail
 - **Virtualización**: VirtualBox
 - **IDE**: VIM, Visual Studio Code, Eclipse, PyScripter
-- Metodologías: SCRUM, Agile
+- **Metodologías**: SCRUM, Agile
 - **Control de versiones**: [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]
-- - **Además**: PostMan, MacOS, Linux, Windows, JasperReports, Trello, Jira
+- **Además**: PostMan, MacOS, Linux, Windows, JasperReports, Trello, Jira
 
 ## Contactame: 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/juaniserrano)
