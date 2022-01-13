@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱 Actualmente me enceuntro: 
+#### 🌱 Actualmente me encuentro: 
 - 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas [(4º año de la carrera)](https://www.ungs.edu.ar/wp-content/uploads/2013/06/Licenciatura-en-Sistemas.pdf)
 - 👨🏻‍💻 Haciendo cursos: [Desarrollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y [React](https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/)
 - ⌨️ Aprendiendo: [Dvorak Layout](https://es.wikipedia.org/wiki/Teclado_Dvorak)
