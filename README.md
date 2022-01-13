@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 Actualmente me enceuntro: 
-- 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas (4to año) 
-- 👨🏻‍💻 Haciendo cursos de [Desarollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y de [React](https://www.udemy.com/course/reactjs-experto-en-frontend-2018/)
-- ⌨️ Aprendiendo y dominando el layout DVORAK
-- 💬 Preguntame sobre: Programacion, Perifericos, Audio y Streaming
-- ⚡ Fun fact: Utilizo un teclado divido y customizado por mi, el cual es conocido como [Corne Keyboard] (https://github.com/foostan/crkbd)
+- 👨🏻‍🎓 Terminando mi carrera de Licenciatura en Sistemas (4to año)
+- 👨🏻‍💻 Haciendo cursos: [Desarollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y de [React](https://www.udemy.com/course/reactjs-experto-en-frontend-2018/)
+- ⌨️ Aprendiendo: [Dvorak Layout](https://es.wikipedia.org/wiki/Teclado_Dvorak)
+- 💬 Preguntame sobre: Programacion, Perifericos, Audio y Streaming.
+- ⚡ Fun fact: Utilizo un teclado divido y customizado por mi, el cual es conocido como [Corne Keyboard](https://github.com/foostan/crkbd)
 ---
 
 ## Mis Conocimientos
