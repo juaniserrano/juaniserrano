@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 Haciendo cursos: [Desarrollo Full Stack](https://www.digitalhouse.com/ar/curso/programacion-web-full-stack) y [React](https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/)
 - ⌨️ Aprendiendo: [Dvorak Layout](https://es.wikipedia.org/wiki/Teclado_Dvorak)
 - 💬 Preguntame sobre: Programación, Periféricos, Audio y Streaming.
-- ⚡ Fun fact: Utilizo un teclado divido y customizado por mi, el cual es conocido como [Corne Keyboard](https://github.com/foostan/crkbd)
+- ⚡ Fun fact: Utilizo un teclado dividido y customizado por mi, el cual es conocido como [Corne Keyboard](https://github.com/foostan/crkbd)
 ---
 
 ## Mis Conocimientos
